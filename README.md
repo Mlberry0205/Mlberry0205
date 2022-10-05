@@ -3,7 +3,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Me on top of Mt. Snuffles!" src="![Mt](https://user-images.githubusercontent.com/102934145/194171332-37e8490a-6edb-438e-9ae9-93bfa503e7fd.jpg)">
+ <img alt="Me on top of Mt. Snuffles!" src="https://user-images.githubusercontent.com/102934145/194171332-37e8490a-6edb-438e-9ae9-93bfa503e7fd.jpg">
 </picture>
 
 Here are some ideas to get you started:
