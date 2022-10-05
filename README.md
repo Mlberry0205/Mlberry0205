@@ -1,19 +1,32 @@
-### Hi there 👋
+### Hi there, Im Morgan Berry 🌻 (she/her)
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Me on top of Mt. Snuffles!" src="https://user-images.githubusercontent.com/102934145/194171332-37e8490a-6edb-438e-9ae9-93bfa503e7fd.jpg">
-</picture>
+Software Developer with a background in leadership, instruction, and motivation.
 
-Here are some ideas to get you started:
+My 10+ years of expereince working with families and children have exposed to a number of new persepctives and deepened my love for helping others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: MorganLynBerry@gmail.com
+
+- 🌱🔭 I’m currently learning:
+ <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+   <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+</p>
+- 👯 I’m looking to collaborate on:
+- <p>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
+   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+ </p>
+
+- ⚡ Fun fact: I would absolutely love a world that involved coding for or with kids!
+
+
+
+
+
+
+
