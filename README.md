@@ -4,21 +4,18 @@ Software Developer with a background in leadership, instruction, and motivation.
 
 My 10+ years of expereince working with families and children have exposed me to a number of new persepctives and deepened my love for helping others.
 
-- 📫 How to reach me: 
-<br>
-- MorganLynBerry@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/morgan-lyn-berry/)
-- [Instagram](https://www.instagram.com/mlberry0205/)
+- 📫 How to reach me: MorganLynBerry@gmail.com
+  - -[LinkedIn](https://www.linkedin.com/in/morgan-lyn-berry/)
+  - -[Instagram](https://www.instagram.com/mlberry0205/)
 
-- 🌱🔭 I’m currently learning:
- <br>
+- 🌱 I’m currently learning:
  <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-   <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 </p>
+
 - 👯 I’m looking to collaborate on:
-<br>
  <p>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
