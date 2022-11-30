@@ -2,7 +2,7 @@
 
 Software Developer with a background in leadership, instruction, and motivation.
 
-My 10+ years of experience working with families and children have exposed me to a number of new persepctives and deepened my love for helping others.
+My 7+ years of experience working with families and children have exposed me to a number of new persepctives and deepened my love for helping others.
 
 - 📫 How to reach me: MorganLynBerry@gmail.com
   - -[LinkedIn](https://www.linkedin.com/in/morgan-lyn-berry/)
